@@ -1,0 +1,32 @@
+[
+  {
+    "id": "t1",
+    "clientName": "Sarah Jenkins",
+    "clientRole": "Founder & CEO",
+    "company": "Apex Growth Labs",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80",
+    "content": "Hiring this team was the best decision for our rebranding. They took our rough ideas and turned them into a stunning, responsive platform that doubled our inbound client calls within 30 days.",
+    "rating": 5,
+    "projectDelivered": "Custom Web Platform & CMS"
+  },
+  {
+    "id": "t2",
+    "clientName": "Marcus Vance",
+    "clientRole": "VP of Product",
+    "company": "FinPulse Systems",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+    "content": "Unmatched speed and communication. Our API integration was complex, but they handled everything cleanly with TypeScript and Express. Zero bugs in production and launched right on schedule.",
+    "rating": 5,
+    "projectDelivered": "Full-Stack SaaS Dashboard"
+  },
+  {
+    "id": "t3",
+    "clientName": "Elena Rostova",
+    "clientRole": "Creative Director",
+    "company": "Maison Chic Paris",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+    "content": "Pixel-perfect execution. They understood the nuances of luxury design and delivered interactive animations that look effortless. Our customers constantly praise our site design.",
+    "rating": 5,
+    "projectDelivered": "E-Commerce Storefront"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "custom-web-dev",
+    "title": "Custom Web Development",
+    "tagline": "Tailored digital experiences",
+    "description": "Fast, pixel-perfect websites built with modern frameworks (React, Next.js, Node.js). Clean architecture that scales seamlessly.",
+    "icon": "Code2",
+    "startingPrice": "$1,499",
+    "popular": true,
+    "features": [
+      "Custom UI/UX design (No cookie-cutter templates)",
+      "100% Responsive & mobile-ready architecture",
+      "SEO optimized",
+      "Clean, maintainable code",
+      "Interactive components & fluid animations"
+    ]
+  },
+  {
+    "id": "fullstack-saas",
+    "title": "Full-Stack Web Apps",
+    "tagline": "From idea to robust production",
+    "description": "End-to-end full-stack applications with secure authentication, relational/NoSQL databases, payment gateways, and custom admin dashboards.",
+    "icon": "Layers",
+    "startingPrice": "$2,999",
+    "features": [
+      "Modern Node.js / Express / Next.js backend APIs",
+      "Stripe & PayPal subscription payment integration",
+      "User authentication (OAuth, JWT, Role-based access)",
+      "Custom Admin CRM & analytics dashboard",
+      "Cloud deployment (AWS, Vercel, Supabase, Render)"
+    ]
+  },
+  {
+    "id": "ecommerce",
+    "title": "High-Converting E-Commerce",
+    "tagline": "Turn visitors into customers",
+    "description": "Custom online storefronts optimized for friction-free checkout, lightning-fast product filtering, cart management, and inventory synchronization.",
+    "icon": "ShoppingBag",
+    "startingPrice": "$2,199",
+    "features": [
+      "Custom Shopify, WooCommerce, or headless store",
+      "Optimized 1-step checkout & payment flows",
+      "Inventory management & automated order notifications",
+      "Conversion-rate optimized product pages",
+      "Customer review and loyalty rewards integrations"
+    ]
+  },
+  {
+    "id": "performance-seo",
+    "title": "Speed, SEO & Modernization",
+    "tagline": "Revamp slow or outdated websites",
+    "description": "Comprehensive audit and code refactor. Transform slow, clunky websites into sub-second powerhouses that rank higher on Google search.",
+    "icon": "Zap",
+    "startingPrice": "$799",
+    "features": [
+      "Core Web Vitals remediation (LCP, FID, CLS)",
+      "Schema markup & structured metadata setup",
+      "Legacy stack migration to modern React / Vite / Next",
+      "Asset compression, lazy loading & CDN setup",
+      "Mobile usability & accessibility (a11y) fixes"
+    ]
+  }
+]
